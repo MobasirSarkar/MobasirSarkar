@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Mobasir Sarkar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Next.js , Postgres , Docker ,**
+- 🌱 I’m currently learning **Next.js , Postgres , Docker **
 
 - 💬 Ask me about **react , typescript**
 
