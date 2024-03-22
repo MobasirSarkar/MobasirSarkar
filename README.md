@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Mobasir Sarkar</h1>
+<h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul Mobasir Sarkar</h1>
 <h3 align="center">A passionate frontend developer (learning fullstack)from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobasirsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="mobasirsarkar" /> </p>
