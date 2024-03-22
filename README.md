@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Next.js , Postgres , Docker **
+- 🌱 I’m currently learning **Next.js , Postgres , Docker**
 
 - 💬 Ask me about **react , typescript**
 
