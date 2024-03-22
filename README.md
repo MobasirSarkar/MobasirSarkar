@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **Next.js , Postgres , Docker**
+- 🌱 I’m currently learning  - **Next.js , Postgres , Docker**
 
-- 💬 Ask me about **react , typescript**
+- 💬 Ask me about - **react , typescript**
 
-- 📫 How to reach me **mobasirsarkar3@gmail.com**
+- 📫 How to reach me  - **mobasirsarkar3@gmail.com**
 
 - ⚡ Fun fact **I learn things pretty quickly**
 
