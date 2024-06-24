@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning  - **Next.js , Postgres , Docker**
 
-- 💬 Ask me about - **react , typescript**
+- 💬 Ask me about - **react , typescript , nodejs**
 
-- 📫 How to reach me  - **mobasirsarkar3@gmail.com**
+- 📫 How to reach me  - **mobasirwork43@gmail.com**
 
 - ⚡ Fun fact **I learn things pretty quickly**
 
