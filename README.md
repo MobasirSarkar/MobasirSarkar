@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mobasir-beyond.online](https://mobasir-beyond.online)
 
-- 💬 Ask me about **Golang , Software Engineering**
+- 💬 Ask me about **Software Engineering, Technology**
 
 - 📫 How to reach me **mobasirwork43@gmail.com**
 
